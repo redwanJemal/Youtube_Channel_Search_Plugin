@@ -1,0 +1,14 @@
+{
+  "name": "youtube-channel-videos",
+  "version": "1.0.0",
+  "description": "Display Youtube Channel Videos in your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Redwan Jemal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
